@@ -1,4 +1,4 @@
-# ProjetoInteligenciaComputacionalRegressao
+# Projeto de Inteligencia Computacional - Regressao
 ### Objetivo do projeto é usar regressão linear para deduzi o valor futuro do atributo "close"
 
 Dados obtido da API: https://www.barchart.com/ondemand
